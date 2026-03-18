@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7141],{294:(t,e,n)=>{n.d(e,{fOo:()=>r});var o=n(4684);function r(t){return(0,o.k5)({tag:"svg",attr:{viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:"2",strokeLinecap:"round",strokeLinejoin:"round"},child:[{tag:"polyline",attr:{points:"9 18 15 12 9 6"},child:[]}]})(t)}}}]);
+//# sourceMappingURL=a7e16ef1-9b14cb272e52f15c.js.map
