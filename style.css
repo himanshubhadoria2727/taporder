@@ -363,3 +363,134 @@
     margin: 0px;
     padding-inline: 0px;
 }
+
+/* Fallback icon sizing for static snapshot mode */
+.chakra-icon {
+    display: inline-block;
+    line-height: 1em;
+    flex-shrink: 0;
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+.css-11w2epo {
+    width: 0.9rem;
+    height: 0.9rem;
+}
+
+.css-9a7v6 {
+    width: 3.25rem;
+    height: 3.25rem;
+}
+
+.css-1wso88w {
+    width: 7rem;
+    height: auto;
+}
+
+.css-1d15ijy {
+    width: 12rem;
+    height: auto;
+}
+
+.css-3b2vqb,
+.css-4p30vb,
+.css-oauzu3 {
+    width: 100%;
+    height: auto;
+}
+
+.css-1epewkl {
+    width: 9rem;
+    height: auto;
+}
+
+/* Brand Guidelines carousel fallback layout */
+.QRSamples_carousel__xm7kQ .css-xi3rw5 {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.QRSamples_carousel__xm7kQ .css-79wmc7 {
+    display: block;
+    text-decoration: none;
+}
+
+.QRSamples_carousel__xm7kQ .css-15rbo39 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.QRSamples_carousel__xm7kQ .css-s0zgw0 {
+    position: relative;
+    width: 7.25rem;
+}
+
+.QRSamples_carousel__xm7kQ .css-1u4xza0 {
+    position: absolute;
+    top: 7.5%;
+    left: 12%;
+    width: 76%;
+    height: 85%;
+    overflow: hidden;
+    border-radius: 0.75rem;
+}
+
+.QRSamples_carousel__xm7kQ .css-1jcj049,
+.QRSamples_carousel__xm7kQ .css-14dt0nl {
+    position: absolute;
+    inset: 0;
+}
+
+.QRSamples_carousel__xm7kQ .css-14dt0nl {
+    opacity: 0;
+}
+
+.QRSamples_carousel__xm7kQ .css-1jcj049 img,
+.QRSamples_carousel__xm7kQ .css-14dt0nl img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.QRSamples_carousel__xm7kQ .css-1h2dlh0 img {
+    width: 4.25rem;
+    height: 4.25rem;
+    object-fit: contain;
+}
+
+.QRSamples_carousel__xm7kQ img {
+    max-width: 100%;
+}
+
+/* Footer container fallback (missing generated class styles in static mode) */
+footer.css-1no6aot {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2.5rem 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    overflow: hidden;
+}
+
+footer.css-1no6aot .css-my0j4o,
+footer.css-1no6aot .css-dqtqsb,
+footer.css-1no6aot .css-70qvj9 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 1rem;
+}
+
+footer.css-1no6aot img,
+footer.css-1no6aot svg {
+    max-width: 100%;
+    height: auto;
+}
