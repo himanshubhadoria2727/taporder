@@ -1,13 +1,6 @@
-﻿import React, { useMemo } from "react";
+﻿import React from "react";
+import HomePage from "./pages/HomePage.jsx";
 
 export default function App() {
-  const frameSrc = useMemo(() => "/legacy-index.html", []);
-
-  return (
-    <iframe
-      title="Digital Menu Legacy"
-      src={frameSrc}
-      style={{ width: "100%", height: "100vh", border: "0", display: "block" }}
-    />
-  );
+  return <HomePage />;
 }
