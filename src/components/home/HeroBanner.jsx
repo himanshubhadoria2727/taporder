@@ -10,7 +10,11 @@ export default function HeroBanner() {
 
       <div className="hero-banner__content-wrap">
         <div className="hero-banner__content">
-          <h1 className="hero-banner__title">Drive more revenue with mobile ordering and marketing solutions</h1>
+                    <h1 className="hero-banner__title">
+            Scan. Order. Pay.
+            <br />
+            Smart Digital Menus for Restaurants in Dubai
+          </h1>
           <div className="hero-banner__actions">
             <a className="hero-banner__btn hero-banner__btn--primary" href="/why-emenu">
               Why TapOrder
